@@ -1,3 +1,3 @@
 # charityrunningleague
 
-Design variants in design branch
+Design variants on design branch
