@@ -1,0 +1,64 @@
+
+* {
+  box-sizing: border-box;
+}
+
+/*body {
+  background-image: url("https://raw.githubusercontent.com/szymon-szym/charityrunningleague/design/picture.png");
+}*/
+
+.mainWin {
+  position: fixed;
+  left: 30%;
+  top: 25%;
+  text-align: center;
+  width: 40%;
+  height: 25em;
+  border-style: groove;
+  border-width: thin;
+  margin:auto;
+  box-shadow: 7px 7px 2px rgba(0, 0, 0, 0.1);
+  background: linear-gradient(to right, blue, indigo);
+}
+
+.additionalWin {
+  position: relative;
+  top: 15%;
+  width: 100%;
+  height: 85%;
+  position: bottom;
+  background-color: white;
+  display: block;
+}
+
+.loginButtons {
+  cursor: pointer;
+  top: 18%;
+  right: 8%;
+  display: block;
+  float: right;
+  position: relative;
+  color: white;
+}
+
+img {
+  float: left;
+  width: 60%;
+  height: 100%;
+}
+
+h3 {
+  font-size: 1.5em;
+  text-align: center;
+  width: 7em;
+  height: 3em;
+  border-radius:10%;
+}
+
+#regBut {
+  background-color: rgba(0,225,225,1);
+}
+
+#sinBut {
+  background-color: rgba(0,95,255,1);
+}
