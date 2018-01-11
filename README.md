@@ -1,3 +1,2 @@
 # charityrunningleague
-
-Design variants on design branch
+in mech file link to jsbin. use "run with js"
